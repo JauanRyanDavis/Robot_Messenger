@@ -1,0 +1,3 @@
+12,22,N,50,E,25,S,10,W,8,
+
+"Welcome Home Robot Ridinghood!"
